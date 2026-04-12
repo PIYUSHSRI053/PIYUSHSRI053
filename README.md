@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Piyush+Srivastava;Full+Stack+Developer;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Piyush+Srivastava;Full+Stack+Developer+|+Exploring+AI+|+ML+|+Computer+Vision;Building+Real+Projects" />
 </h1>
 
 ---
