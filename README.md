@@ -1,21 +1,47 @@
-# 🚀 Piyush Srivastava
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Piyush+Srivastava;Full+Stack+Developer;Building+Real+Projects" />
+</h1>
 
-### Full Stack Developer | ML | Deep Learning | Computer Vision | Generative AI
+---
+
+# 💻 Piyush Srivastava
+
+### Full Stack Developer | Exploring AI | ML | Computer Vision
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech Student (IT)
 - 📍 India
-- 💡 Interested in Web Development & AI/ML 
-- ⚡ Currently improving my full-stack development skills
+- 💡 Interested in Web Development & AI
+- ⚡ Focused on improving through real projects
 
 ---
 
-## 🔧 What I'm Working On
-- Building full-stack web applications
-- Learning backend architecture using Node.js
-- Improving problem-solving skills
+## 🔧 What I'm Doing
+- Building full-stack applications using MERN stack
+- Learning backend systems (Node.js, APIs)
+- Exploring computer vision projects
+
+---
+
+## 🚀 Projects
+
+### 🚦 Traffic Monitoring System
+- Detects and counts vehicles from video input
+- Uses computer vision techniques for tracking
+- Displays vehicle data using graphs/dashboard
+
+🔗 Repo: https://github.com/PIYUSHSRI053/Traffic  
+
+---
+
+### 🎬 Movie Recommendation System
+- Recommends movies using similarity-based filtering
+- Works on dataset using basic recommendation logic
+- Implemented using Python
+
+🔗 Repo: https://github.com/PIYUSHSRI053/Movie-Ticket-Project  
 
 ---
 
@@ -47,75 +73,20 @@
 
 ---
 
-## 🚀 Projects
-
-### 🚦 Traffic Monitoring System
-- Detects and tracks vehicles from video input
-- Counts vehicles in real-time
-- Displays analytics using graphs/dashboard
-
-🔗 Repo: https://github.com/PIYUSHSRI053/Traffic
-
----
-
-### 🎬 Movie Recommendation System
-- Suggests movies based on similarity
-- Uses dataset + basic recommendation logic
-- Built with Python and data processing
-
-🔗 Repo: https://github.com/PIYUSHSRI053/Movie-Ticket-Project
-
----
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PIYUSHSRI053&show_icons=true&theme=radical)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUSHSRI053&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PIYUSHSRI053)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PIYUSHSRI053&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHSRI053&theme=radical" />
+</p>
 
 ---
 
-## ⚡ What Makes Me Different
-> I am focused on learning by building real projects and improving consistently.
-- Node.js, Express
-- REST APIs
-- MongoDB / MySQL
+## 📈 Activity Graph
 
-### Frontend
-- React.js
-- Tailwind / CSS
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=PIYUSHSRI053&theme=react-dark)
 
 ---
 
-## 🚀 Featured Projects
-
----
-
-## 📊 GitHub Stats
-(keep your stats images)
-
----
-
-## ⚡ What Makes Me Different
-> I don’t just build projects — I build usable systems.
-
-<!--
-**PIYUSHSRI053/PIYUSHSRI053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Focus
+> I am currently focused on strengthening my full-stack skills and building better real-world projects.
