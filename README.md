@@ -48,28 +48,62 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+</p>
 
 ---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+</p>
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+</p>
+
+---
+
+### 📊 Data & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Tkinter-grey?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/Google%20Colab-yellow?style=for-the-badge&logo=googlecolab" />
+</p>
 
 ---
 
