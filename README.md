@@ -50,16 +50,22 @@
 <td width="50%">
 
 ### 🎟️ Movie Ticket Booking System  
+![React](https://img.shields.io/badge/React-blue?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=flat-square)
+- Full-stack movie ticket booking application  
+- Users can browse movies and book tickets  
+- Backend API built using Node.js and Express  
+- Data stored and managed using MongoDB  
+- Frontend built with React and Axios for API calls  
 
-- Allows users to browse and book movie tickets  
-- Handles booking logic and user interaction  
-- Built using Python with Tkinter GUI  
-- Focused on core functionality and interface design  
-
-🔗 [View Repo](https://github.com/PIYUSHSRI053/Movie-Ticket-Project)
+**Tech Stack:**
+- Frontend: React.js, HTML, CSS, JavaScript, Axios  
+- Backend: Node.js, Express.js  
+- Database: MongoDB (Mongoose)  
+- Deployment: Frontend (Vercel), Backend (API server)  
 
 </td>
 
