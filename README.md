@@ -50,6 +50,7 @@
 <td width="50%">
 
 ### 🎟️ Movie Ticket Booking System  
+
 ![React](https://img.shields.io/badge/React-blue?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square)
@@ -61,11 +62,7 @@
 - Data stored and managed using MongoDB  
 - Frontend built with React and Axios for API calls  
 
-**Tech Stack:**
-- Frontend: React.js, HTML, CSS, JavaScript, Axios  
-- Backend: Node.js, Express.js  
-- Database: MongoDB (Mongoose)  
-- Deployment: Frontend (Vercel), Backend (API server)  
+🔗 [View Repo](https://github.com/PIYUSHSRI053/Movie-Ticket-Project)
 
 </td>
 
