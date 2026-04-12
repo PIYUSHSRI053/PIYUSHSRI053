@@ -25,23 +25,46 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🚦 Traffic Monitoring System
-- Detects and counts vehicles from video input
-- Uses computer vision techniques for tracking
-- Displays vehicle data using graphs/dashboard
+<table>
+<tr>
 
-🔗 Repo: https://github.com/PIYUSHSRI053/Traffic  
+<td width="50%">
 
----
+### 🚦 Traffic Monitoring System  
 
-### 🎬 Movie Recommendation System
-- Recommends movies using similarity-based filtering
-- Works on dataset using basic recommendation logic
-- Implemented using Python
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=flat-square)
+![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=flat-square)
 
-🔗 Repo: https://github.com/PIYUSHSRI053/Movie-Ticket-Project  
+- Detects and counts vehicles from video streams  
+- Applies computer vision techniques for object detection and tracking  
+- Displays results using a Tkinter-based interface  
+- Designed for basic traffic analysis and monitoring  
+
+🔗 [View Repo](https://github.com/PIYUSHSRI053/Traffic)
+
+</td>
+
+<td width="50%">
+
+### 🎟️ Movie Ticket Booking System  
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=flat-square)
+
+- Allows users to browse and book movie tickets  
+- Handles booking logic and user interaction  
+- Built using Python with Tkinter GUI  
+- Focused on core functionality and interface design  
+
+🔗 [View Repo](https://github.com/PIYUSHSRI053/Movie-Ticket-Project)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
