@@ -36,7 +36,8 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=flat-square)
-![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit)
+
 
 - Detects and counts vehicles from video streams  
 - Applies computer vision techniques for object detection and tracking  
