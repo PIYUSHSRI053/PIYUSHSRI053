@@ -43,7 +43,7 @@
 - Displays results using a Tkinter-based interface  
 - Designed for basic traffic analysis and monitoring  
 
-🔗 [View Repo](https://github.com/PIYUSHSRI053/Traffic)
+🔗 [View Repo](https://github.com/PIYUSHSRI053/Traffic_Management)
 
 </td>
 
