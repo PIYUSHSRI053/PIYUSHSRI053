@@ -41,7 +41,7 @@
 
 - Detects and counts vehicles from video streams  
 - Applies computer vision techniques for object detection and tracking  
-- Displays results using a Tkinter-based interface  
+- Displays results using a Streamlit-based interface  
 - Designed for basic traffic analysis and monitoring  
 
 🔗 [View Repo](https://github.com/PIYUSHSRI053/Traffic_Management)
